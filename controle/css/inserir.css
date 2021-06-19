@@ -1,0 +1,29 @@
+.acesso{
+    color:white;
+    display:flex;
+    margin:-120px 10px 0 760px;
+    text-align:center;
+    text-decoration:none;
+    list-style:none;
+}
+#conteiner-inserir{
+    height:300px;
+    width:400px;
+    text-align:center;
+    color:white;
+    font-weight:bold;
+    padding:10px 0;
+    margin:20px 470px;
+    border-radius:10px;
+    background-color:rgb(66, 59, 168);
+}
+#conteiner-inserir>h1,h3{
+    color:white;
+    text-align:center;    
+}
+#conteudo{
+    margin: 0 0 20px 10px;
+}
+#concluirC{
+    margin: 20px 0;
+}

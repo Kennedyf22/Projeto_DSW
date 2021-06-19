@@ -1,0 +1,71 @@
+.acessoM{
+    color:white;
+    display:flex;
+    margin:-120px 10px 0 690px;
+    text-align:center;
+    text-decoration:none;
+    list-style:none;
+}
+#conteiner-article>form{
+    text-align:center;
+    align-items:center;
+    width:400px;
+    height:350px;
+    margin: 20px 475px;
+    border-radius:10px;
+    background-color:rgb(118, 118, 153);
+}
+#conteiner-article>form>h4{
+    padding:10px 0;
+    color:white;
+}
+#mDtNasc{
+   margin: 5px 30px 0 0;
+}
+.mDtN{
+    color:white;
+    font-weight:bold;
+}
+#mEmail{
+    margin: 5px 0 0 0;
+}
+#mPassword{
+    margin: 5px 0;
+}
+.mopMtdP{
+    width:100%;
+    height:80px;
+    color:white;    
+}
+.mopMtdP > .mMtdP{
+    font-weight:bold;
+}
+#mMtdp{
+    margin: 10px 8px;
+}
+#mDtp{
+    margin: 2px 180px 0 0;
+}
+#mBt{
+    margin: 30px 0 0 0;
+    border-radius:5px;
+    font-weight:bold;
+    color:white;
+    background-color:rgb(109, 109, 235);
+}
+#mBtE{
+    margin: 10px 0 0 0;
+    border-radius:5px;
+    font-weight:bold;
+    color:white;
+    background-color:rgb(109, 109, 235);
+}
+#conteiner-article>.empresas{
+    font-size:20px;
+    color:white;
+    text-align:center;
+}
+#formemp>#mNm,#emc,#tel,#emp{
+    margin:10px 40px;
+    padding: 5px 25px;
+}

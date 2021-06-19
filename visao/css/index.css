@@ -1,0 +1,128 @@
+body{
+    background-color:black;
+}
+#conteiner-logo{
+    height:130px;
+    display:flex;
+    border-bottom:1px solid lightblue;
+    background-color:rgb(32, 9, 116);
+}
+#logo a{
+    font-size:35px;
+    color:white;
+    display:flex;
+    text-align:center;
+    align-items:center;
+    text-decoration:none;
+    margin: 27px 40px;
+}
+.menu, li a{
+    color:white;
+    display:flex;
+    margin:30px 10px;
+    font-weight:bold;
+    text-align:center;
+    text-decoration:none;
+    list-style:none;
+}
+.acesso{
+    color:white;
+    display:flex;
+    margin:-120px 10px 0 570px;
+    text-align:center;
+    text-decoration:none;
+    list-style:none;
+}
+.acesso  a{
+    border:1px solid white;
+    border-start-start-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;    
+    padding:10px 20px;
+}
+.bt2{
+    background-color:#093366;
+}
+article{
+    height:470px;
+    background-color:white;
+}
+#conteiner-article>h1{
+    font-size:30px;
+    margin:20px 80px;
+    color:white;
+}
+#conteiner-article>h2{
+    font-size:20px;
+    text-align:center;
+    align-items:center;
+    color:white;
+    margin:80px 0 0 0;
+}
+#conteiner-article>h1>p{
+    margin: 10px 0;
+}
+#conteiner-article>h1>.p {
+    margin: 0 120px;
+}
+#conteiner-article>.dcr{
+    font-size:17px;
+    color:white;
+    margin:0 80px;
+}
+#conteiner-article{
+    height:270px;
+    background-color:rgb(59, 59, 124);
+    border:1px solid transparent;
+}
+#cont-art{
+    height:297px;
+    margin: -100px 0;
+}
+.blc-art1{
+    width:280px;
+    height:130px;
+    margin: 16px 20px 0 80px;
+    text-align:center;
+    border:1px solid blue;
+    background-color:white;
+}
+.blc-art1>p{
+    font-size:20px;
+    font-weight:bold;
+    margin: 50px 0 0 0;
+}
+.blc-art2{
+    width:280px;
+    height:130px;
+    margin: -280px 20px 295px 380px;
+    text-align:center;
+    border:1px solid blue;
+    background-color:white;
+}
+.blc-art2>p{
+    font-size:20px;
+    font-weight:bold;
+    margin: 50px 0 0 0;
+}
+.blc-art3{
+    width:280px;
+    height:130px;
+    margin: -427px 20px 295px 680px;
+    text-align:center;
+    border:1px solid blue;
+    background-color:white;
+}
+.blc-art3>p{
+    font-size:20px;
+    font-weight:bold;
+    margin: 50px 0 0 0;
+}
+footer{
+    color:white;
+    font-weight:bold;
+    text-align:center;
+    align-items:center;
+    padding:20px;
+    background-color:rgb(32, 9, 116);
+}
